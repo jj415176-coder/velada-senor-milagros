@@ -1,0 +1,6 @@
+{
+  "name": "Invitación Señor de los Milagros",
+  "description": "Invitación solemne y ceremonial a la Velada en Honor al Señor de los Milagros de la familia Ygarza García.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
